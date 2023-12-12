@@ -1,6 +1,4 @@
-// đây là bài tập phát sinh từ bài tập 12, làm phần nhỏ rồi gộp lại
-// Bài tập như sau, nhập dữ liệu từ bàn phím (họ tên, ngày sinh, quê quán) rồi ghi vào file dulieu.txt
-// Đọc dữ liệu ghi vào ra màn hình
+
 //giờ phải làm cho nó quay lại thread1
 /**********************************/
 /**********************************/
